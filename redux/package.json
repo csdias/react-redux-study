@@ -20,7 +20,7 @@
     "babel-preset-react": "^6.5.0",
     "babel-preset-stage-2": "^6.5.0",
     "concurrently": "^2.0.0",
-    "jquery": "^2.2.1",
+    "jquery": "^3.5.0",
     "keymirror": "^0.1.1",
     "lodash.debounce": "^4.0.3",
     "react": "^0.14.7",
